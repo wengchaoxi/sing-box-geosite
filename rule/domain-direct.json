@@ -1,0 +1,12 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "cubeofcube.com",
+        "kingamer.cn",
+        "kingsoft.com"
+      ]
+    }
+  ],
+  "version": 2
+}

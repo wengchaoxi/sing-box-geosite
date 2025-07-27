@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "dns.google",
+        "one.one.one.one"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "rbxcdn.com",
+        "roblox.com"
+      ]
+    }
+  ],
+  "version": 2
+}
